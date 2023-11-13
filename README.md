@@ -7,4 +7,4 @@ CSES problemset solutions
 
 | # | Title | Solution | 
 |---| ----- | -------- | 
-| 1 | [Counting Rooms](https://cses.fi/problemset/task/1192) | [C++20](graphs/Counting\ Rooms.cpp)
+| 1 | [Counting Rooms](https://cses.fi/problemset/task/1192) | [C++20](<graphs/Counting Rooms.cpp>)
